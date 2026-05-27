@@ -3,8 +3,8 @@
 <p align="center">
   <a href="#home">Home</a> |
   <a href="CV.md">CV</a> |
-  <a href="#research">Research</a> |
-  <a href="#contact">Contact</a>
+  <a href="#research.md">Research</a> |
+  <a href="#contact.md">Contact</a>
 </p>
 
 ---
