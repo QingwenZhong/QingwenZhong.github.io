@@ -16,11 +16,11 @@ title: Contact
   </li>
   <li>
     <span class="contact-icon">G</span>
-    <p><a href="#">Google Scholar</a></p>
+    <p><a href="https://scholar.google.com/citations?user=aLE-ql8AAAAJ&hl=en">Google Scholar</a></p>
   </li>
   <li>
     <span class="contact-icon">R</span>
-    <p><a href="#">ResearchGate</a></p>
+    <p><a href="https://www.researchgate.net/profile/Qingwen-Zhong-2">ResearchGate</a></p>
   </li>
   <li>
     <span class="contact-icon">iD</span>
@@ -28,6 +28,6 @@ title: Contact
   </li>
   <li>
     <span class="contact-icon">in</span>
-    <p><a href="#">LinkedIn</a></p>
+    <p><a href="www.linkedin.com/in/qingwenzhong">LinkedIn</a></p>
   </li>
 </ul>
