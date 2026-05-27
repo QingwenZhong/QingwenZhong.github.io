@@ -10,7 +10,7 @@ Last updated: June 2026
 
 **ORCID:** 0000-0001-8674-8367  
 **Email:** zhongqingwen@scsio.ac.cn; qingwenchung@gmail.com  
-**Links:** [Google Scholar](https://scholar.google.com/citations?user=aLE-ql8AAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Qingwen-Zhong-2); [Personal website](https://github.com/QingwenZhong/academy/)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=aLE-ql8AAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Qingwen-Zhong-2); [Personal website](https://qingwenzhong.github.io)
 
 ## Academic Experience
 
