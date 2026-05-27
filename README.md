@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#home">Home</a> |
-  <a href="CV.html">CV</a> |
+  <a href="CV.md">CV</a> |
   <a href="#research">Research</a> |
   <a href="#contact">Contact</a>
 </p>
