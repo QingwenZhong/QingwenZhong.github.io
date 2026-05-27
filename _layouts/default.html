@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <style>
+      .wrapper {
+        max-width: 760px;
+        width: auto;
+        margin: 0 auto;
+        padding: 40px 24px;
+      }
+
+      header,
+      footer {
+        display: none;
+      }
+
+      section {
+        float: none;
+        width: auto;
+        border: 0;
+        padding: 0;
+        margin: 0;
+      }
+
+      @media print, screen and (max-width: 960px) {
+        .wrapper {
+          width: auto;
+          padding: 24px;
+        }
+
+        section {
+          border: 0;
+          padding: 0;
+          margin: 0;
+        }
+      }
+
+      @media print, screen and (max-width: 480px) {
+        .wrapper {
+          padding: 20px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <section>
+        {{ content }}
+      </section>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
