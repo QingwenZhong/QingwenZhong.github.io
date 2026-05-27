@@ -52,7 +52,7 @@ September 2015 - June 2019
 
 ## Publications
 
-- Zhong, Q., Brandt, P., Czeschel, R., Schwarzkopf, F. U., Chen, J., and Chen, G. Intermediate circulation variability in the equatorial Indian Ocean. Submitted.
+- Zhong, Q., Brandt, P., Czeschel, R., Schwarzkopf, F. U., Chen, J., and Chen, G. Equatorial Intermediate Current variability in the Indian Ocean. Submitted.
 
 - Zhong, Q., Chen, G., Chen, J., and He, Y. (2026). Intraseasonal variability and dynamical mechanisms of equatorial deep currents in the Indian Ocean. *Journal of Tropical Oceanography*, 45, 140-153. https://doi.org/10.11978/2025024.
 
