@@ -1,14 +1,5 @@
 # Qingwen's Academic Website
 
-<p align="center">
-  <a href="#home">Home</a> |
-  <a href="CV.html">CV</a> |
-  <a href="#research">Research</a> |
-  <a href="#contact">Contact</a>
-</p>
-
----
-
 ## Home
 
 <img src="image/profile.jpg" alt="Profile photo" width="220" align="right">
@@ -29,6 +20,9 @@ My current research interests include:
 - Ocean circulation and current dynamics
 - Numerical modelling of ocean circulation
 
+Read more on the [Research](research.html) page.
+
 
 ## Contact
 - Email: `qingwenchung@gmail.com`
+- More contact details are available on the [Contact](contact.html) page.
