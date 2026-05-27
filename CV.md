@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 # Qingwen Zhong
 
 **Curriculum Vitae**  
