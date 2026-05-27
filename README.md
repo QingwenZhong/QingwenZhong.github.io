@@ -12,9 +12,7 @@ This website is hosted from my GitHub repository and will be updated with my rec
 
 <br clear="right">
 
-## Research
-
-My current research interests include:
+## Research interests
 
 - Ocean Observation 
 - Ocean circulation and current dynamics
