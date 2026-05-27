@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#home">Home</a> |
-  <a href="CV.pdf">CV</a> |
+  <a href="CV.md">CV</a> |
   <a href="#research">Research</a> |
   <a href="#contact">Contact</a>
 </p>
@@ -11,7 +11,7 @@
 
 ## Home
 
-<img src="assets/profile.jpg" alt="Profile photo" width="220" align="right">
+<img src="profile.jpg" alt="Profile photo" width="220" align="right">
 
 Welcome to my personal academic website. I am Qingwen, and this site introduces my background, curriculum vitae, research interests, and contact information.
 
