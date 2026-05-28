@@ -4,7 +4,7 @@
 
 <img src="image/profile.jpg" alt="Profile photo" width="220" align="right">
 
-Welcome to my personal academic website. I am Qingwen, and this site introduces my background, curriculum vitae, research interests, and contact information.
+Welcome to my personal academic website. I am Qingwen Zhong, and this site introduces my background, curriculum vitae, research interests, and contact information.
 
 I'm a physical oceanographer with experience in ocean observation and current dynamics. My expertise is examining and interpreting circulation patterns and influences.  I'm interested in studying the ocean using various in situ approaches and designing ocean model experiments.   I am currently exploring oceanic variability in the Florida Straits and its impact on coastal sea level and flooding.
 
