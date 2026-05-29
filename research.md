@@ -11,7 +11,7 @@ title: Research
     <p><strong>Zhong, Q.</strong>, Brandt, P., Czeschel, R., Schwarzkopf, F. U., Chen, J., and Chen, G. Submitted.</p>
     <p><strong>Abstract:</strong> Add the abstract for this publication here.</p>
   </div>
-  <img class="research-image" src="image/research/research1.jpg" alt="Research figure for intermediate circulation variability in the equatorial Indian Ocean">
+  <img class="research-image" src="image/research/research1.png" alt="Research figure for intermediate circulation variability in the equatorial Indian Ocean">
 </div>
 
 <div class="research-item">
@@ -20,7 +20,7 @@ title: Research
     <p><strong>Zhong, Q.</strong>, Chen, G., Chen, J., and He, Y. (2026). <em>Journal of Tropical Oceanography</em>, 45, 140-153. <a href="https://doi.org/10.11978/2025024">https://doi.org/10.11978/2025024</a>.</p>
     <p><strong>Abstract:</strong> Add the abstract for this publication here.</p>
   </div>
-  <img class="research-image" src="image/research/research2.jpg" alt="Research figure for equatorial deep currents in the Indian Ocean">
+  <img class="research-image" src="image/research/research2.png" alt="Research figure for equatorial deep currents in the Indian Ocean">
 </div>
 
 <div class="research-item">
@@ -29,7 +29,7 @@ title: Research
     <p><strong>Zhong, Q.</strong>, Chen, G., and Chen, J. (2024). <em>Journal of Physical Oceanography</em>, 54(11), 2269-2287. <a href="https://doi.org/10.1175/JPO-D-24-0067.1">https://doi.org/10.1175/JPO-D-24-0067.1</a>.</p>
     <p><strong>Abstract:</strong> Add the abstract for this publication here.</p>
   </div>
-  <img class="research-image" src="image/research/research3.jpg" alt="Research figure for strong equatorial intermediate current events in the Indian Ocean">
+  <img class="research-image" src="image/research/research3.png" alt="Research figure for strong equatorial intermediate current events in the Indian Ocean">
 </div>
 
 <div class="research-item">
@@ -38,5 +38,5 @@ title: Research
     <p><strong>Zhong, Q.</strong>, Chen, G., and Chen, J. (2023). <em>Deep Sea Research Part I: Oceanographic Research Papers</em>, 192, 103938. <a href="https://doi.org/10.1016/j.dsr.2022.103938">https://doi.org/10.1016/j.dsr.2022.103938</a>.</p>
     <p><strong>Abstract:</strong> Add the abstract for this publication here.</p>
   </div>
-  <img class="research-image" src="image/research/research4.jpg" alt="Research figure for intraseasonal variability of the equatorial intermediate current">
+  <img class="research-image" src="image/research/research4.png" alt="Research figure for intraseasonal variability of the equatorial intermediate current">
 </div>
