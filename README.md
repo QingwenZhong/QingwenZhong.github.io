@@ -1,4 +1,4 @@
-# Qingwen Zhong's Academic Website
+# Qingwen's Academic Website
 
 ## Home
 
